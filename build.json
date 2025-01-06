@@ -1,0 +1,15 @@
+{
+  "os": {
+    "name": "rubyOS",
+    "version": "1.5"
+  },
+  "device": {
+    "model": "YOUR_BRAND"
+  },
+  "debug": {
+    "enabled": true
+  },
+  "network": {
+    "proxy": "192.168.1.1:8080"
+  }
+}
